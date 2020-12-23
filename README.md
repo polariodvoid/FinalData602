@@ -1,5 +1,5 @@
 # FinalData602
-!
+![obesity animation](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Obesity-waist_circumference.svg/1200px-Obesity-waist_circumference.svg.png "Obesity")
 ## Summary
 Are there attributes that we can measure that directly impact obesity levels in individuals? This study
 will examine the consumption patterns and physical condition of individuals from three different
